@@ -35,6 +35,7 @@ Step 3:
 Step 4:
 1. create a auth contex
 2. create context provider
-3. use auth provider
-4.create useAuth hook
+3. set Context provider context value.
+4. use auth provider
+5.create useAuth hook
 */
