@@ -42,7 +42,7 @@ const useFirebase = () => {
     user,
     error,
     signInUsingGoogle,
-    signOut,
+    logOut,
   };
 };
 

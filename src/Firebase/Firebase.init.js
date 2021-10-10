@@ -22,4 +22,11 @@ Step-2:
 1.Create Login Component
 2.Create Register Compoentn
 3.Create Route for Logic and Register
+
+------------------
+Step 3:
+1.set up sign in method
+2. setup sign out method
+3. user state
+4. special observe
 */
